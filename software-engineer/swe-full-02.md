@@ -1,14 +1,21 @@
-<h1 align="center">Building Egypt's 1<sup>st</sup> B2B commerce platform</h1>
+# Fullstack Software Engineer
 
+Shopping Cart is essential part of any e-commerce solution out there,
 
-Challenges
----
+Design and Build only Shopping Cart page of an e commerce website:
+- Cart content should be stored in database.
+- User should be able to add / remove / change content of cart.
+- User should be able to apply / redeem copuns
 
-This Repository contains technical challenges that used to evaluate candidates
-applying for fulltime jobs on Fatura Egypt.
+- Build endpoint `POST /coupon/check` that receives a coupon code and should validate if coupon is valid and return discount to be applied, Coupun discount can be either fixed amount, or amount percentage, you should support applying both on the cart content.
+
+- Cart Page should be built using VueJS, and design should be responsive.
+
+### Deliver with
+You may use PHP or NodeJS, VueJS or react
 
 We love documentations, at all levels, also we love git, so always deliver you code
-in a git repo, with readme.md file (like this one) descriping how should we get your
+in a git repo, with readme.md file descriping how should we get your
 code working, you may also include:
 
 - Your thinking process, how you designed your solution.
@@ -17,27 +24,13 @@ code working, you may also include:
 - Tell us about something you learned during the coarse of this task.
 - Useful link(s) related to you or the task you may like to share with us.
 
-How We Evaluate
----
+# How We Evaluate
 
 We love pefection, therefore, deliver **_quality_** task instead of _complete_ task, make sure your
 code is production ready, this matter.
-
 
 - **Simplicty**, write simple, clean code, Complexity is Human Programmer's Enemy
 - **Correctness**, always focus on what output we asked for in the task
 - **Security**, no one loves to be vulnerable, so we are
 - **Testing**, we care about testing, very much
 - **Documentation**, we love documentation, provide as much documetation as you can.
-
-
-Like to Join Us
----
-
-We love too, simple and easy, pick a task for position you'd like to apply for, implement it with a week, and drop us a line
-
-Here are list of possible positionas we usually hire for:
-- [Fullstack Software Engineer](software-engineer/swe-full-01)
-- [Backend Software Engineer](software-engineer/backend)
-- Frontend Software Engineer
-- Mobile Developer
