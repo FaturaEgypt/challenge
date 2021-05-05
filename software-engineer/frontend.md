@@ -2,6 +2,7 @@
 
 Hello candidte, 
 We would like you to build a web app that displays the trending GIFs on [Giphy](https://giphy.com/), or [Tenor](https://tenor.com/gifapi/documentation#quickstart)
+
 Users visiting the website should be able to search for GIFs and see a list of results. The user should be able to expand a GIF and see its details (username, rating, anything you think could be relevant).
 
 Users should have a good user experience on desktop, tablet and mobile devices, we don't recommend a specific layout, so pick what you think will be more fit for your users.
@@ -21,17 +22,19 @@ We strongly encourage you to pick a couple of optional improvements. We suggest 
 ### Deliverables
 - We expect your delivery on a git repo.
 - Deploy your project as well, Netlify, or vercel are free options.
-- we require using VueJS or ReactJS (we seek these 2 frameworks now).
+- we require using **VueJS** (maybe ReactJS)
 - Responsive application, we will test on Desktop, tablets and mobile phones.
 - We expect Readme file on the project root telling us about yourself and any additional requirements to run the project.
 
 
 ## How We Evaluate
 
-We love pefection, therefore, deliver **_quality_** task instead of _complete_ task, make sure your
-code is production ready, this matter. for this project we will evaluate based on how far you decided to go with the project.
-- **Structure**, Be wise with your components structure, state management, etc...
-- **Simplicty**, write simple, clean code, Complexity is Human Programmer's Enemy
+We love pefection, therefore, deliver **_quality_** task instead of _complete_ task, 
+
+make sure your code is production ready, this matter. for this project we will evaluate based on how far you decided to go with the project.
+
+- **Structure**, Be wise with your components structure, state management, etc…
+- **Simplicty**, write simple, clean code, use industry standards when writing css, and html.
 - **Correctness**, always focus on what output we asked for in the task
 - **Testing**, we care about testing, very much, 
 - **Documentation**, we love documentation, provide as much documetation as you can, inline comments, and may be storybook ;)
