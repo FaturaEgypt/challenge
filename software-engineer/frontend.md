@@ -9,8 +9,9 @@ Users should have a good user experience on desktop, tablet and mobile devices, 
 
 This task is pretty open ended in order to leave you some freedom to improve upon the base by focusing on what you like the most.
 
-We strongly encourage you to pick a couple of optional improvements. We suggest the following, however feel free to add up what you think should be there :
+We strongly encourage you to pick a couple of the following **optional improvements**, however feel free to add up what you think should be there :
 
+SUGESSIONS:
 - When the user scrolls the page to the bottom, load new GIFs automatically.
 - Create a mosaic layout and display a placeholder when GIFs are still loading.
 - Show off your animation skills!
