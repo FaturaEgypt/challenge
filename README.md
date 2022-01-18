@@ -39,5 +39,6 @@ We love too, simple and easy, pick a task for position you'd like to apply for, 
 Here are list of possible positionas we usually hire for:
 - [Fullstack Software Engineer](software-engineer/swe-full-01)
 - [Backend Software Engineer](software-engineer/backend)
+- [DevOps Engineer](devops-engineer)
 - Frontend Software Engineer
 - Mobile Developer
