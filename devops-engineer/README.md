@@ -79,7 +79,7 @@ Compress all files and folders from the two challenges with the following formul
 
 
 
-### Linux and General Debugging Questions
+### General Debugging Questions
 
 #### Challenge #1 
 
@@ -91,10 +91,6 @@ Compress all files and folders from the two challenges with the following formul
 ##### Expected Output
 * You should deliver a Markdown file that contains the steps and details for debugging the problem
 
-
-#### Challenge #2
-
-##### Steps
 
 ### How Do We Evaluate
 
