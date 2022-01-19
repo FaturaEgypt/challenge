@@ -11,21 +11,21 @@ This challenge consists of multiple practical parts, As a DevOps engineer you ne
 * Git is about practicing all the way, So let's jump into action for this challenge. 
 
 
-
 #### Git Challenge #1
 
 ##### Steps
 
-* First of all, Go through [this](https://learngitbranching.js.org/?NODEMO) link and start exploring the lessons if you don't have prior Git knowledge. 
+* First of all, Go through [this](https://learngitbranching.js.org/) link and start exploring the lessons if you don't have prior Git knowledge. 
 	* This app is made for testing and learning purposes to simulate and visualize your git commits
 
-* We need to reproduce ![the](gitbranching.png) following commits shown in the PNG  Git commits. 
-***Note:*** You need to open the Sandbox mode in order to be able to test and examine in a free session. 
+* We need to reproduce the following Git commits shown in the PNG.
+![img](gitbranching.png) 
+***Note:*** You need to open the [Sandbox](https://learngitbranching.js.org/?NODEMO) mode in order to be able to test and examine in a free session. 
 
 You can refer to their GitHub [repo](https://github.com/pcottle/learnGitBranching) for more info about the product and how to use.  
 
 ##### Expected Output
-  * You should provide an Image that contains the desired commits output and the commits written themselves. 
+  * You should provide an image that contains the commits and their outputs. 
   * You should also provide the commits in a text file as well, So we are able to reproduce and trace your commits.
 
 #### Git Challenge #2
@@ -34,12 +34,12 @@ You can refer to their GitHub [repo](https://github.com/pcottle/learnGitBranchin
 
 * Second Git challenge is that you need to write a one page blog about Git and Git workflows. 
   * Try to make it neat as much as possible by separating the post into multiple paragraphs
-  * You can consult all the external resources to help you understand and right the blog without copying exact paragrapsh from the internet. 
+  * You can consult all the external resources to help you understand and right the blog without copying exact paragraphs from the internet. 
   * Any novice engineer should understand what is Git and Git workflows from your blog.
 
 
 ##### Expected Output
-* You should provide a one page Git blog written as Text/Markdown separated as paragraphs.
+* You should provide a one page blog written as Text/Markdown separated as paragraphs.
   * Try to write as much lines as possible from your understanding to what you have read or know. Avoid copy paste already written stuff. 
   * Don't forget as we need this to assess your written English skills for establishing the documentation.
 
@@ -48,13 +48,13 @@ Compress all files and folders from the two challenges with the following formul
 
 ### Containers
 
-Containers are currently used heavily in all modern cloud based applications. And as a DevOps engineer you will be dealing with containers and orchestration tools daily.
+Containers are currently used heavily in all modern cloud based applications. And as a DevOps engineer you will be working with containers and orchestration tools daily.
 
 #### Containers Challenge #1
 
 ##### Steps
 
-* Write a simple app that calculates the factorial of a random number between 1-10 in any language (C,C++,NodeJs,Golang,Rust or Python etc...)
+* Write a simple app that calculates the factorial of a random number between 1-10 in any language (C, C++, NodeJs, Golang, Rust or Python etc...)
 * After you get your code running, You need to Dockerize the application. 
 * Please mention any best practices you used or can be used for dockerizing the application in terms of container security, Image size and Image layers caching
 
@@ -79,7 +79,7 @@ Compress all files and folders from the two challenges with the following formul
 
 
 
-### General Debugging Questions
+### General Linux & Debugging Questions
 
 #### Challenge #1 
 
@@ -91,6 +91,27 @@ Compress all files and folders from the two challenges with the following formul
 ##### Expected Output
 * You should deliver a Markdown file that contains the steps and details for debugging the problem
 
+#### Challenge #2 
+Finally we are up to our last challenge!. A set of shell scripts on HackerRank that you need to solve. 
+##### Steps
+* Visit the following link and solve [this](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) shell challenge 
+
+##### Expected Output
+* The output is expected to be one or more screenshot that present the following.
+ * Successfull submission of the problem on HackerRank
+ * The solution you submitted
+
+#### Challenge #3 (Bonus Challenge)
+
+##### Steps
+* Visit the following link and solve [this](https://www.hackerrank.com/challenges/lonely-integer-2/problem?isFullScreen=true)
+
+##### Expected Output
+* The output is expected to be one or more screenshot that present the following.
+ * Successfull submission of the problem on HackerRank
+ * The solution you submitted
+
+Compress all files and folders from the three challenges with the following formula ```YourName-Linux-challenge-date.zip```
 
 ### How Do We Evaluate
 
